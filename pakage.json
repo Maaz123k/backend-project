@@ -6,6 +6,6 @@
    "start": "node sever.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.0"
   }
 }
